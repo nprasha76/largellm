@@ -1,13 +1,3 @@
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partab filter=lfs diff=lfs merge=lfs -text
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partac filter=lfs diff=lfs merge=lfs -text
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partae filter=lfs diff=lfs merge=lfs -text
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partaj filter=lfs diff=lfs merge=lfs -text
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partak filter=lfs diff=lfs merge=lfs -text
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partam filter=lfs diff=lfs merge=lfs -text
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partaa filter=lfs diff=lfs merge=lfs -text
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partad filter=lfs diff=lfs merge=lfs -text
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partaf filter=lfs diff=lfs merge=lfs -text
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partag filter=lfs diff=lfs merge=lfs -text
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partah filter=lfs diff=lfs merge=lfs -text
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partai filter=lfs diff=lfs merge=lfs -text
-mixtral-8x7b-instruct-v0.1.Q4_K_M.partal filter=lfs diff=lfs merge=lfs -text
+llava-v1.6-mistral-7b.Q4_K_M.partaa filter=lfs diff=lfs merge=lfs -text
+llava-v1.6-mistral-7b.Q4_K_M.partab filter=lfs diff=lfs merge=lfs -text
+llava-v1.6-mistral-7b.Q4_K_M.partac filter=lfs diff=lfs merge=lfs -text
