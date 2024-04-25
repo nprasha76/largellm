@@ -1,3 +1,3 @@
-llava-v1.6-mistral-7b.Q4_K_M.partaa filter=lfs diff=lfs merge=lfs -text
-llava-v1.6-mistral-7b.Q4_K_M.partab filter=lfs diff=lfs merge=lfs -text
-llava-v1.6-mistral-7b.Q4_K_M.partac filter=lfs diff=lfs merge=lfs -text
+dolphin7B.tar.bz2.partaa filter=lfs diff=lfs merge=lfs -text
+dolphin7B.tar.bz2.partab filter=lfs diff=lfs merge=lfs -text
+dolphin7B.tar.bz2.partac filter=lfs diff=lfs merge=lfs -text
